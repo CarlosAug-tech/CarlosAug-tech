@@ -4,4 +4,4 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
 
 ## Linguagens de Programação 🚀
 
-<img src="https://ik.imagekit.io/1owic8tc6qc/javascript_HebF67gcd.png" style="width:200px;height:200px;" />
+<img src="https://ik.imagekit.io/1owic8tc6qc/javascript_HebF67gcd.png" width="200" height="100" />
