@@ -24,4 +24,4 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
 ### Conecte-se comigo 😀
 
 - ✉ [E-mail](mailto:carlosaugust.tech@gmail.com)
-- 📸 [Linkedin](mailto:carlosaugust.tech@gmail.com)
+- 📸 [Linkedin](https://www.linkedin.com/in/carlos-augusto-686434208/)
