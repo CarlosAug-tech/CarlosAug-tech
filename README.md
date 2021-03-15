@@ -4,6 +4,15 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
 
 ## Linguagens de Programação 🚀
 
-<table><tr><td>
-    <img src="https://ik.imagekit.io/1owic8tc6qc/javascript_HebF67gcd.png" width="100" height="100" />
-</td></tr></table>
+<table>
+ <tr>
+     <td>
+        <img src="https://ik.imagekit.io/1owic8tc6qc/javascript_HebF67gcd.png" width="100" height="100" />
+    </td>
+ </tr>
+ <tr>
+    <td>
+        <img src="https://ik.imagekit.io/1owic8tc6qc/javascript_HebF67gcd.png" width="100" height="100" />
+    </td>
+ </tr>
+</table>
