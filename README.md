@@ -20,3 +20,16 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
   </td>
  </tr>
 </table>
+
+## Conecte-se comigo 😀
+
+<table>
+ <tr>
+     <td>
+      [![name](<img src="https://ik.imagekit.io/1owic8tc6qc/javascript_HebF67gcd.png" width="80" height="80" />](mailto:carlosaugust.tech@gmail.com)
+    </td>
+    <td>
+        <img src="https://ik.imagekit.io/1owic8tc6qc/nodejs_j2lKiwkPG.png" width="80" height="80" />
+    </td>
+ </tr>
+</table>
