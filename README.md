@@ -32,7 +32,7 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
         <img src="https://ik.imagekit.io/1owic8tc6qc/sequelize_0Gq-ldYScI.png" width="80" height="80" />
     </td>
   <td>
-        <img src="https://ik.imagekit.io/1owic8tc6qc/docker_jX9sqKuyg.webp" width="120" height="80" />
+        <img src="https://ik.imagekit.io/1owic8tc6qc/docker_jX9sqKuyg.webp" width="80" height="80" />
   </td>
  </tr>
 </table>
