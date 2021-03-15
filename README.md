@@ -13,7 +13,7 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
         <img src="https://ik.imagekit.io/1owic8tc6qc/nodejs_j2lKiwkPG.png" width="80" height="80" />
     </td>
   <td>
-        <img src="https://ik.imagekit.io/1owic8tc6qc/react_with_ts_dqJ9kyWNO.png" width="100" height="80" />
+        <img src="https://ik.imagekit.io/1owic8tc6qc/react_with_ts_dqJ9kyWNO.png" width="120" height="80" />
   </td>
   <td>
         <img src="https://ik.imagekit.io/1owic8tc6qc/react_QDEmX6yOp1.png" width="80" height="80" />
