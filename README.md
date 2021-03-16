@@ -1,7 +1,7 @@
 # Olá, 👋 Devs,
 
 <h1 align="center" >
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" height="120" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" height="150" />
 </h1>
 
 Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meus conhecimentos. Estou interessado em trabalhar com front-end utilizando ReactJS, mas também posso dar uma mãozinha no NodeJS. Atualmente estou estudando sobre testes unitários/integração e aprofudando em CI/CD. Estou sempre aprender coisas novas e a compartilhar meus conhecimentos 😎 
