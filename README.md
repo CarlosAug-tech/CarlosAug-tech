@@ -45,3 +45,4 @@ Meu nome é Carlos 🙋‍♂️, atualmente estou estudando e aperfeçoando meu
 
 - ✉ [E-mail](mailto:carlosaugust.contact@gmail.com)
 - 📸 [Linkedin](https://www.linkedin.com/in/carlos-augusto-686434208/)
+- 💻 [Portfólio](https://carlosaug-tech.github.io/carlosaugusto-portfolio/)
